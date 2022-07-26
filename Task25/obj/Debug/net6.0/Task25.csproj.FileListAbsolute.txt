@@ -1,0 +1,15 @@
+/Users/alex/projects/HomeWorks/Task25/bin/Debug/net6.0/Task25
+/Users/alex/projects/HomeWorks/Task25/bin/Debug/net6.0/Task25.deps.json
+/Users/alex/projects/HomeWorks/Task25/bin/Debug/net6.0/Task25.runtimeconfig.json
+/Users/alex/projects/HomeWorks/Task25/bin/Debug/net6.0/Task25.dll
+/Users/alex/projects/HomeWorks/Task25/bin/Debug/net6.0/ref/Task25.dll
+/Users/alex/projects/HomeWorks/Task25/bin/Debug/net6.0/Task25.pdb
+/Users/alex/projects/HomeWorks/Task25/obj/Debug/net6.0/Task25.csproj.AssemblyReference.cache
+/Users/alex/projects/HomeWorks/Task25/obj/Debug/net6.0/Task25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/projects/HomeWorks/Task25/obj/Debug/net6.0/Task25.AssemblyInfoInputs.cache
+/Users/alex/projects/HomeWorks/Task25/obj/Debug/net6.0/Task25.AssemblyInfo.cs
+/Users/alex/projects/HomeWorks/Task25/obj/Debug/net6.0/Task25.csproj.CoreCompileInputs.cache
+/Users/alex/projects/HomeWorks/Task25/obj/Debug/net6.0/Task25.dll
+/Users/alex/projects/HomeWorks/Task25/obj/Debug/net6.0/ref/Task25.dll
+/Users/alex/projects/HomeWorks/Task25/obj/Debug/net6.0/Task25.pdb
+/Users/alex/projects/HomeWorks/Task25/obj/Debug/net6.0/Task25.genruntimeconfig.cache
