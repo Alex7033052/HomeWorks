@@ -1,0 +1,15 @@
+/Users/alex/projects/HomeWorks/Task47/bin/Debug/net6.0/Task47
+/Users/alex/projects/HomeWorks/Task47/bin/Debug/net6.0/Task47.deps.json
+/Users/alex/projects/HomeWorks/Task47/bin/Debug/net6.0/Task47.runtimeconfig.json
+/Users/alex/projects/HomeWorks/Task47/bin/Debug/net6.0/Task47.dll
+/Users/alex/projects/HomeWorks/Task47/bin/Debug/net6.0/ref/Task47.dll
+/Users/alex/projects/HomeWorks/Task47/bin/Debug/net6.0/Task47.pdb
+/Users/alex/projects/HomeWorks/Task47/obj/Debug/net6.0/Task47.csproj.AssemblyReference.cache
+/Users/alex/projects/HomeWorks/Task47/obj/Debug/net6.0/Task47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/projects/HomeWorks/Task47/obj/Debug/net6.0/Task47.AssemblyInfoInputs.cache
+/Users/alex/projects/HomeWorks/Task47/obj/Debug/net6.0/Task47.AssemblyInfo.cs
+/Users/alex/projects/HomeWorks/Task47/obj/Debug/net6.0/Task47.csproj.CoreCompileInputs.cache
+/Users/alex/projects/HomeWorks/Task47/obj/Debug/net6.0/Task47.dll
+/Users/alex/projects/HomeWorks/Task47/obj/Debug/net6.0/ref/Task47.dll
+/Users/alex/projects/HomeWorks/Task47/obj/Debug/net6.0/Task47.pdb
+/Users/alex/projects/HomeWorks/Task47/obj/Debug/net6.0/Task47.genruntimeconfig.cache
