@@ -1,0 +1,15 @@
+/Users/alex/projects/HomeWorks/Task60/obj/Debug/net6.0/Task60.csproj.AssemblyReference.cache
+/Users/alex/projects/HomeWorks/Task60/obj/Debug/net6.0/Task60.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/projects/HomeWorks/Task60/obj/Debug/net6.0/Task60.AssemblyInfoInputs.cache
+/Users/alex/projects/HomeWorks/Task60/obj/Debug/net6.0/Task60.AssemblyInfo.cs
+/Users/alex/projects/HomeWorks/Task60/obj/Debug/net6.0/Task60.csproj.CoreCompileInputs.cache
+/Users/alex/projects/HomeWorks/Task60/bin/Debug/net6.0/Task60
+/Users/alex/projects/HomeWorks/Task60/bin/Debug/net6.0/Task60.deps.json
+/Users/alex/projects/HomeWorks/Task60/bin/Debug/net6.0/Task60.runtimeconfig.json
+/Users/alex/projects/HomeWorks/Task60/bin/Debug/net6.0/Task60.dll
+/Users/alex/projects/HomeWorks/Task60/bin/Debug/net6.0/ref/Task60.dll
+/Users/alex/projects/HomeWorks/Task60/bin/Debug/net6.0/Task60.pdb
+/Users/alex/projects/HomeWorks/Task60/obj/Debug/net6.0/Task60.dll
+/Users/alex/projects/HomeWorks/Task60/obj/Debug/net6.0/ref/Task60.dll
+/Users/alex/projects/HomeWorks/Task60/obj/Debug/net6.0/Task60.pdb
+/Users/alex/projects/HomeWorks/Task60/obj/Debug/net6.0/Task60.genruntimeconfig.cache
